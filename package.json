@@ -1,0 +1,22 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd src && node index.js"
+  },
+  "author": "MY",
+  "license": "ISC",
+  "dependencies": {
+    "multiparty": "^4.1.2",
+    "nodemon": "^1.10.2",
+    "standard": "^8.3.0"
+  },
+  "devDependencies": {
+    "eslint-config-standard": "^6.2.0",
+    "eslint-config-standard-jsx": "^3.2.0",
+    "eslint-plugin-promise": "^3.0.0",
+    "eslint-plugin-react": "^6.3.0",
+    "eslint-plugin-standard": "^2.0.1"
+  }
+}
